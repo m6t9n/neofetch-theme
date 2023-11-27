@@ -1,4 +1,4 @@
-# my customized neofetch theme
+# neofetch theme
   
   ![theme_preview](https://github.com/m6t9n/neofetch-theme/blob/main/theme/theme_preview.png)
   
