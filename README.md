@@ -4,7 +4,7 @@
   
 ────────────────────────────────
 
-[installation](https://github.com/m6t9n/neofetch-theme/edit/main/README.md)
+[installation](https://github.com/m6t9n/neofetch-theme/blob/main/README.md)
 
  - open terminal
  - `git clone https://github.com/m6t9n/neofetch-theme.git`
@@ -14,6 +14,4 @@
      
 ────────────────────────────────
 
-[source & more themes](https://github.com/m6t9n/neofetch-theme/edit/main/README.md)
-
- - https://github.com/Chick2D/neofetch-theme
+- [source & more themes](https://github.com/Chick2D/neofetch-theme)
