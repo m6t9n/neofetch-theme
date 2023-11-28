@@ -13,4 +13,4 @@ You will need to install any one Nerd font and use it in your terminal for the a
 and extract the downloaded .zip file and copy its contents into a folder in either \usr\share\fonts or ~\.local\share\fonts
 
 # source:
- - [more themes](https://github.com/Chick2D/neofetch-theme)
+ - [source and more themes](https://github.com/Chick2D/neofetch-theme)
