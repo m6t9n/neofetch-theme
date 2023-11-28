@@ -9,7 +9,7 @@
  - `mv config.conf /home/x/.config/neofetch/`
 
 # note:
-You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly. To install the fonts, download any one monospaced font from [Nerd fonts download page] (https://www.nerdfonts.com/font-downloads)
+You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly. To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads)
 and extract the downloaded .zip file and copy its contents into a folder in either \usr\share\fonts or ~\.local\share\fonts
 
 # source:
