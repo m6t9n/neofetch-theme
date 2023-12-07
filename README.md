@@ -2,7 +2,7 @@
 
 ![theme_preview](https://github.com/m6t9n/neofetch-theme/blob/main/theme/theme_preview.png)
   
-# installation:
+# linux installation:
 
  - `git clone https://github.com/m6t9n/neofetch-theme.git`
  - `cd neofetch-theme/theme/`
