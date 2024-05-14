@@ -17,4 +17,4 @@ and extract the downloaded .zip file and copy its contents into a folder in eith
 
 # source:
 
- - [source and more themes](https://github.com/Chick2D/neofetch-theme)
+ - [source and more themes](https://github.com/Chick2D/neofetch-themes)
